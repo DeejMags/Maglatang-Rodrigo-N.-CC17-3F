@@ -1,4 +1,4 @@
-package com.example.dicerollerappmaglatang3f
+package com.example.`cc17-3f-maglatangrnm-act3`
 
 import org.junit.Test
 

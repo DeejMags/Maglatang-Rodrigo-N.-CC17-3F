@@ -1,4 +1,4 @@
-package com.example.dicerollerappmaglatang3f.ui.theme
+package com.example.`cc17-3f-maglatangrnm-act3`.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

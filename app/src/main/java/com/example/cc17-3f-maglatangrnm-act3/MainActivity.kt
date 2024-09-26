@@ -1,4 +1,4 @@
-package com.example.dicerollerappmaglatang3f
+package com.example.`cc17-3f-maglatangrnm-act3`
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -17,7 +17,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
-import com.example.dicerollerappmaglatang3f.ui.theme.DiceRollerAppMaglatang3FTheme
+import com.example.`cc17-3f-maglatangrnm-act3`.ui.theme.DiceRollerAppMaglatang3FTheme
 import kotlin.random.Random
 
 class MainActivity : ComponentActivity() {

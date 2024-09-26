@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.dicerollerappmaglatang3f"
+    namespace = "com.example.cc17-3f-maglatangrnm-act3"
     compileSdk = 34
 
     defaultConfig {
